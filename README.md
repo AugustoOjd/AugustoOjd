@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Manchine learning and AI models**
 
-- 💬 Ask me about **Javascript, react, nodejs, python, djgango**
+- 💬 Ask me about **Javascript, React, Nodejs, Python, Djgango, Tensorflow**
 
 - 📫 How to reach me **augustoojedad@gmail.com**
 
