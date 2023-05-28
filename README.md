@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine learning and Tensorflow**
 
-- 👯 I’m looking to collaborate on **Manchine learning and models AI**
+- 👯 I’m looking to collaborate on **Manchine learning and AI models**
 
 - 💬 Ask me about **Javascript, react, nodejs, python, djgango**
 
