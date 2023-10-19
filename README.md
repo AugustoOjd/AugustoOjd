@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Augusto Ojeda</h1>
 <h3 align="center">A passionate software developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Teacher staff backend with nodejs**
+- 🔭 I’m currently working on **Backend developer**
 
 - 🌱 I’m currently learning **Machine learning and Tensorflow**
 
 - 👯 I’m looking to collaborate on **Manchine learning and AI models**
 
-- 💬 Ask me about **Javascript, React, Nodejs, Python, Djgango, Tensorflow**
+- 💬 Ask me about **Javascript, Python, FastApi, React, Nodejs, Tensorflow**
 
 - 📫 How to reach me **augustoojedad@gmail.com**
 
